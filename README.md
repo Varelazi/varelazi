@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ilene Varela-Zul</h1>
 - 🔭 I’m currently working on [a capstone project](https://frontend-ratiemate.onrender.com/)
 
-- 👨‍💻 All of my projects are available at [https://ilenes-portfolio.onrender.com/](https://ilenes-portfolio.onrender.com/)
+- 👨‍💻 My projects: [https://ilenes-portfolio.onrender.com/](https://ilenes-portfolio.onrender.com/) [https://tic-tac-tie-tic-tacs.onrender.com/] (https://tic-tac-tie-tic-tacs.onrender.com/) 
 
 - 💬 Ask me about **React and CSS**
 
