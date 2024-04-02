@@ -13,7 +13,10 @@
   
   <p>Projects:</p>
   <ul>
+    <li>(IN PROGRESS)CookBook Corner: Your ultimate destination for discovering and deciding on your next culinary adventure. Powered by state-of-the-art technology and an intuitive user interface, CookBook Corner simplifies the recipe selection process, ensuring you spend less time searching and more time enjoying delicious dishes. (Tech Stack: React Native)</li>
     <li><a href="https://frontend-ratiemate.onrender.com">Ratie Mate</a>: Your go-to destination for discovering and deciding on your next movie or TV show to watch. Powered by cutting-edge technology and an intuitive user interface, Ratie Mate simplifies the movie selection process, ensuring you spend less time searching and more time enjoying your favorite films. (Tech Stack: React and Ruby on Rails)</li>
-    <li>CookBook Corner: Your ultimate destination for discovering and deciding on your next culinary adventure. Powered by state-of-the-art technology and an intuitive user interface, CookBook Corner simplifies the recipe selection process, ensuring you spend less time searching and more time enjoying delicious dishes. (Tech Stack: React Native)</li>
   </ul>
+
+  <p>Contact Me</p>
+  <a href-"https://www.linkedin.com/in/varelazi/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"/></a>
 </div>
