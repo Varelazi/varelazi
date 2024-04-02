@@ -18,5 +18,5 @@
   </ul>
 
   <p>Contact Me</p>
-  <a href="https://www.linkedin.com/in/varelazi/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" style="height: 50px"/></a>
+  <a href="https://www.linkedin.com/in/varelazi/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" style="height: 50px;"></a>
 </div>
